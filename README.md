@@ -1,6 +1,12 @@
 # Developing-a-Na-ve-Search-Engine-Utilising-MapReduce-Technology
 # Document Indexing and Relevance Analysis using MapReduce
 
+# Group Members
+Ali Tanveer (21I-1692)
+Afza Anjum (21I-1724)
+Ruwaid Imran (21I-1728)
+
+
 ## Introduction
 This assignment explores distributed storage and processing using Apache Hadoop's MapReduce framework, focusing on implementing document indexing and relevance analysis. Document indexing involves creating an index of terms and their TF/IDF weights for a collection of documents, while relevance analysis evaluates document relevance to a given query based on TF/IDF representations.
 
@@ -27,7 +33,7 @@ The approach utilizes Apache Hadoop's MapReduce paradigm to distribute document 
 MapReduce jobs generated TF/IDF weights for terms and sparse vector representations of documents. Relevance analysis ranked documents based on their relevance to a given query, demonstrating the effectiveness of TF/IDF weighting. Despite its simplicity, the analysis accurately identified relevant documents.
 
 ## GitHub Repository Structure
-- **document_indexing.py**: Main Python script implementing MapReduce jobs.
+- **A2.py**: Main Python script implementing MapReduce jobs.
 - **README.md**: Comprehensive report of the assignment.
 - **output.txt**: Results of document indexing and relevance analysis.
 - **output_sparse.txt**: Sparse vector representations of documents.
