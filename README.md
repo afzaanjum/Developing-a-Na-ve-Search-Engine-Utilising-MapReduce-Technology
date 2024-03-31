@@ -35,8 +35,7 @@ MapReduce jobs generated TF/IDF weights for terms and sparse vector representati
 ## GitHub Repository Structure
 - **A2.py**: Main Python script implementing MapReduce jobs.
 - **README.md**: Comprehensive report of the assignment.
-- **output.txt**: Results of document indexing and relevance analysis.
-- **output_sparse.txt**: Sparse vector representations of documents.
+- **output.txt**: Results of document indexing and relevance analysis and sparse vector representations of document.
 
 ## Conclusion
 This assignment provided insights into distributed storage and processing with Apache Hadoop's MapReduce framework. By implementing document indexing and relevance analysis, practical experience in handling big data efficiently was gained. Utilization of hash-based term IDs and sparse vector representations addressed challenges like high dimensionality and computational complexity. Through experimentation and optimization, understanding of TF/IDF weighting and its application in information retrieval systems was deepened.
