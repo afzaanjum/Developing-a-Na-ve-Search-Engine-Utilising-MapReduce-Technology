@@ -1,0 +1,54 @@
+Term Frequency (TF):
+Document 1: {'I': 1.0, 'wonder': 1.0, 'how': 1.0, 'many': 1.0, 'miles': 1.0, 'I’ve': 1.0, 'fallen': 1.0, 'by': 1.0, 'this': 1.0, 'time?': 1.0}
+Document 2: {'According': 0.5, 'to': 0.5, 'the': 1.0, 'latest': 0.5, 'census,': 0.5, 'population': 0.5, 'of': 0.5, 'Moscow': 0.5, 'is': 0.5, 'more': 0.5, 'than': 0.5, 'two': 0.5, 'million.': 0.5}
+Document 3: {'It': 1.0, 'was': 1.0, 'a': 1.0, 'warm,': 1.0, 'bright': 1.0, 'day': 1.0, 'at': 1.0, 'the': 1.0, 'end': 1.0, 'of': 1.0, 'August.': 1.0}
+Document 4: {'To': 1.0, 'be,': 1.0, 'or': 1.0, 'not': 1.0, 'to': 1.0, 'be?': 1.0}
+Document 5: {'The': 0.5, 'population,': 1.0, 'the': 1.0, 'population': 0.5}
+
+Inverse Document Frequency (IDF):
+I: 1.6094379124341003
+wonder: 1.6094379124341003
+how: 1.6094379124341003
+many: 1.6094379124341003
+miles: 1.6094379124341003
+I’ve: 1.6094379124341003
+fallen: 1.6094379124341003
+by: 1.6094379124341003
+this: 1.6094379124341003
+time?: 1.6094379124341003
+According: 1.6094379124341003
+to: 0.9162907318741551
+the: 0.5108256237659907
+latest: 1.6094379124341003
+census,: 1.6094379124341003
+population: 0.9162907318741551
+of: 0.9162907318741551
+Moscow: 1.6094379124341003
+is: 1.6094379124341003
+more: 1.6094379124341003
+than: 1.6094379124341003
+two: 1.6094379124341003
+million.: 1.6094379124341003
+It: 1.6094379124341003
+was: 1.6094379124341003
+a: 1.6094379124341003
+warm,: 1.6094379124341003
+bright: 1.6094379124341003
+day: 1.6094379124341003
+at: 1.6094379124341003
+end: 1.6094379124341003
+August.: 1.6094379124341003
+To: 1.6094379124341003
+be,: 1.6094379124341003
+or: 1.6094379124341003
+not: 1.6094379124341003
+be?: 1.6094379124341003
+The: 1.6094379124341003
+population,: 1.6094379124341003
+
+Sparse Vectors:
+Document 1: {'I': 1.0, 'wonder': 1.0, 'how': 1.0, 'many': 1.0, 'miles': 1.0, 'I’ve': 1.0, 'fallen': 1.0, 'by': 1.0, 'this': 1.0, 'time?': 1.0}
+Document 2: {'According': 0.5, 'to': 0.5, 'the': 1.0, 'latest': 0.5, 'census,': 0.5, 'population': 0.5, 'of': 0.5, 'Moscow': 0.5, 'is': 0.5, 'more': 0.5, 'than': 0.5, 'two': 0.5, 'million.': 0.5}
+Document 3: {'It': 1.0, 'was': 1.0, 'a': 1.0, 'warm,': 1.0, 'bright': 1.0, 'day': 1.0, 'at': 1.0, 'the': 1.0, 'end': 1.0, 'of': 1.0, 'August.': 1.0}
+Document 4: {'To': 1.0, 'be,': 1.0, 'or': 1.0, 'not': 1.0, 'to': 1.0, 'be?': 1.0}
+Document 5: {'The': 0.5, 'population,': 1.0, 'the': 1.0, 'population': 0.5}
